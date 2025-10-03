@@ -8,6 +8,8 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] 2001: Uma Odisseia no Espaço
 - [ ] Blade Runner
 - [ ] Matrix
+- [ ] LARISSA Vandegal
+- [ ] TWo on
 
 ### Fantasia
 - [ ] O Senhor dos Anéis: A Sociedade do Anel
